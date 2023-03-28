@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Golesan&theme=github_dark&hide_border=true)](https://github.com/Golesan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Golesan&layout=compact&langs_count=8&theme=github_dark&hide_border=true)](https://github.com/Golesan)
 <!--
 **Golesan/Golesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
